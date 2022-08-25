@@ -5,6 +5,9 @@
 		"factoryName": {
 			"value": "datafactdav044"
 		},
+		"AzureBlobStorage1_properties_typeProperties_connectionString_secretName": {
+			"value": "StorageAccountSecret"
+		},
 		"AzureKeyVault1_properties_typeProperties_baseUrl": {
 			"value": "https://keyvaultdp203dav.vault.azure.net/"
 		}
